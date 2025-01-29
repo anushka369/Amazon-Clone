@@ -2,7 +2,7 @@
 
 ## 🛒 Overview
 
-This project is a front-end clone of the Amazon website, built using **HTML, CSS, and JavaScript**. It aims to replicate the user interface and functionality of Amazon's homepage, including the navbar, search bar, hero section, and shopping sections.
+This project is a front-end clone of the Amazon website, built using **HTML and CSS**. It aims to replicate the user interface and functionality of Amazon's homepage, including the navbar, search bar, hero section, and shopping sections.
 
 ---
 
@@ -34,7 +34,7 @@ This project is a front-end clone of the Amazon website, built using **HTML, CSS
 
 - **HTML:** Structure of the webpage
 - **CSS:** Styling and layout
-- **JavaScript:** (To be implemented for interactive features)
+- **JavaScript:** (to be implemented for interactive features)
 
 ---
 
@@ -45,7 +45,7 @@ Amazon-Clone/
 │── images/             # Stores images used in the project
 │── index.html          # Main HTML file
 │── style.css           # Styling file
-│── script.js           # JavaScript functionality (if any)
+│── script.js           # JavaScript functionality
 ```
 
 ---
